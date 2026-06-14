@@ -2,7 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Prachi Phatak</h1>
 
-<h3 align="center">AI • ML • Deep Learning Enthusiast | Computer Engineering Student</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Enthusiast;ML+Enthusiast;Deep+Learning+Enthusiast;Computer+Engineering+Student;Open+Source+Learner" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
