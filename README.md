@@ -28,7 +28,13 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,github,vscode,nodejs" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
