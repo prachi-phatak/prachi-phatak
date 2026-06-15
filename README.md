@@ -38,20 +38,18 @@
 </p>
 
 ---
-<!--
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/prachi-phatak">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/prachi-phatak-b21400332/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
-<!--
 ---
 
  📊 GitHub Stats
