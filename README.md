@@ -8,7 +8,6 @@
   </a>
 </p>
 
----
 
 ## 🌸 About Me
 
@@ -23,7 +22,6 @@
 🌱 Constantly improving problem-solving and programming skills
 
 
----
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +35,7 @@
 <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
----
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -50,7 +48,7 @@
 </a>
 
 </p>
----
+
 
  📊 GitHub Stats
 
@@ -59,6 +57,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-phatak&theme=tokyonight" height="180em"/>
 </p>
 
----
 
 
