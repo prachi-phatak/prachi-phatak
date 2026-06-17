@@ -15,7 +15,7 @@
 
 🎓 Diploma in Computer Engineering | Pursuing Degree Studies
 
-🤖 Currently learning Artificial Intelligence, Machine Learning & Deep Learning
+🤖 Currently learning Artificial Intelligence, Machine Learning 
 
 🚀 Exploring Open Source and Real-World Software Development
 
