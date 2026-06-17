@@ -11,8 +11,6 @@
 
 ✨ Passionate about building innovative and impactful tech projects
 
-🎓 Diploma in Computer Engineering | Pursuing Degree Studies
-
 🤖 Currently learning Full Stack Development
 
 🚀 Exploring Open Source and Real-World Software Development
