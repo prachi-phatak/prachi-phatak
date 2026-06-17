@@ -1,5 +1,3 @@
-## Hi👋, I'm Prachi Phatak
-
 <h1 align="center">Hi 👋, I'm Prachi Phatak</h1>
 
 <p align="center">
@@ -9,7 +7,7 @@
 </p>
 
 
-## 🌸 About Me
+## 🏵️ About Me
 
 ✨ Passionate about building innovative and impactful tech projects
 
