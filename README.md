@@ -43,9 +43,6 @@
     <img src="https://cdn.simpleicons.org/linkedin" height="40" />
   </a>
 
-<a href="https://twitter.com/prachiphatakcp" target="_blank">
-  <img src="https://cdn.simpleicons.org/twitter" alt="Twitter" width="40" height="40"/>
-</a>
 
 </p>
 
