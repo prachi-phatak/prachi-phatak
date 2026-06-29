@@ -39,12 +39,12 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://twitter.com/@prachiphatakcp" target="_blank">
-  <img src="https://cdn.simpleicons.org/twitter" alt="Twitter" width="40" height="40"/>
-</a>
+ <a href="https://linkedin.com/in/prachi-phataK-b21400332">
+    <img src="https://cdn.simpleicons.org/linkedin" height="40" />
+  </a>
 
-<a href="https://x.com/@prachiphatakcp" target="_blank">
-  <img src="https://cdn.simpleicons.org/x" alt="X" width="40" height="40"/>
+<a href="https://twitter.com/prachiphatakcp" target="_blank">
+  <img src="https://cdn.simpleicons.org/twitter" alt="Twitter" width="40" height="40"/>
 </a>
 
 </p>
