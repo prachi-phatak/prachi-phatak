@@ -39,8 +39,8 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/prachi-phatak-b21400332/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://twitter.com/@prachiphatakcp" target="_blank">
+  <img src="https://cdn.simpleicons.org/twitter" alt="Twitter" width="40" height="40"/>
 </a>
 
 <a href="https://x.com/@prachiphatakcp" target="_blank">
