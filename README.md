@@ -43,6 +43,10 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+<a href="https://x.com/@prachiphatakcp" target="_blank">
+  <img src="https://cdn.simpleicons.org/x" alt="X" width="40" height="40"/>
+</a>
+
 </p>
 
 
