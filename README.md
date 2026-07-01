@@ -74,7 +74,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=react&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=github&hide_border=true"/>
 
 <br><br>
 
