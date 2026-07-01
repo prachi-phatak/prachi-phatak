@@ -72,7 +72,7 @@
 </p>
 
 # Achievements
-<img src="https://firstissue.dev/badges/first-merge">
+<img src="[![First Merge](https://img.shields.io/badge/FirstIssue.dev-First%20Merge-808080?style=for-the-badge&logo=github)](https://firstissue.dev)">
 # 🎯 Current Focus
 
 ```yaml
