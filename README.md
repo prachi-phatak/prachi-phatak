@@ -71,7 +71,8 @@
 💚 <b>Every commit reflects continuous learning, collaboration, and growth.</b>
 </p>
 
-
+# Achievements
+<img src="https://firstissue.dev/badges/first-merge">
 # 🎯 Current Focus
 
 ```yaml
