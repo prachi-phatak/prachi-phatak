@@ -80,10 +80,6 @@
 
 </p>
 
-<p align="center">
-<i>Building projects • Learning continuously • Contributing to Open Source 💙</i>
-</p>
-
 ---
 
 # 🏆 GitHub Trophies
