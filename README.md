@@ -69,23 +69,19 @@
 </p>
 
 ---
+# 📊 Contribution Analytics
 
-# 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
+### 🚀 My Coding Journey
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prachi-phatak&theme=tokyonight"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=github-compact&hide_border=true"/>
 
-</p>
+<br>
 
-<p align="center">
+💙 **Every commit is a step toward becoming a better developer.**
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prachi-phatak&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prachi-phatak&theme=tokyonight"/>
-
-</p>
-
+</div>
 ---
 
 # 🏆 GitHub Trophies
