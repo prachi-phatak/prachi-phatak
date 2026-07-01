@@ -71,8 +71,16 @@
 💚 <b>Every commit reflects continuous learning, collaboration, and growth.</b>
 </p>
 
-# Achievements
-<img src="[![First Merge](https://img.shields.io/badge/FirstIssue.dev-First%20Merge-808080?style=for-the-badge&logo=github)](https://firstissue.dev)">
+
+## 🏆 Achievements
+
+<p align="center">
+
+[![First Merge](https://img.shields.io/badge/FirstIssue.dev-First%20Merge-808080?style=for-the-badge&logo=github)](https://firstissue.dev)
+
+</p>
+
+
 # 🎯 Current Focus
 
 ```yaml
