@@ -5,7 +5,6 @@
 </p>
 
 <h3 align="center">
-
 🤖 AI Enthusiast • 🧠 ML Explorer • 🔥 Deep Learning • 💻 Full Stack Developer
 
 </h3>
