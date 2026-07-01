@@ -4,10 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:2563eb&text=Prachi%20Phatak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20|%20ML%20|%20DL%20|%20Full%20Stack%20Developer&descAlignY=60"/>
 </p>
 
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;AIML+Enthusiast;" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3200&pause=900&color=00BFFF&center=true&vCenter=true&width=950&lines=Computer+Engineering+Student;AI+%7C+Machine+Learning+%7C+Deep+Learning;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Technologies;Turning+Ideas+Into+Reality+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
