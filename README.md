@@ -75,8 +75,16 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <a href="https://firstissue.dev">
-    <img src="https://img.shields.io/badge/FirstIssue.dev-First%20Merge-808080?style=for-the-badge&logo=github" />
+  <a href="https://firstissue.dev" target="_blank">
+    <img src="https://img.shields.io/badge/FirstIssue.dev-First%20Contribution-808080?style=for-the-badge&logo=github"
+         alt="First Contribution Badge" />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://firstissue.dev" target="_blank">
+    <img src="https://img.shields.io/badge/FirstIssue.dev-First%20Merge-808080?style=for-the-badge&logo=github"
+         alt="First Merge Badge" />
   </a>
 </p>
 
