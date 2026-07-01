@@ -74,7 +74,7 @@
 
 ## 🏆 Achievements
 
-<p align="center">
+<p>
   <a href="https://firstissue.dev" target="_blank">
     <img src="https://img.shields.io/badge/FirstIssue.dev-First%20Contribution-808080?style=for-the-badge&logo=github"
          alt="First Contribution Badge" />
