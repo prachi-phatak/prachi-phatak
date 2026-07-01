@@ -68,14 +68,16 @@
 
 </p>
 
----
 
-## 📈 Contribution Timeline
+
+## 📈 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prachi-phatak&theme=github_dark"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=react-dark&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=react-dark&hide_border=true"/>
 </p>
 
 <p align="center">
