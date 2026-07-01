@@ -75,9 +75,9 @@
 ## 🏆 Achievements
 
 <p align="center">
-
-[![First Merge](https://img.shields.io/badge/FirstIssue.dev-First%20Merge-808080?style=for-the-badge&logo=github)](https://firstissue.dev)
-
+  <a href="https://firstissue.dev">
+    <img src="https://img.shields.io/badge/FirstIssue.dev-First%20Merge-808080?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 
