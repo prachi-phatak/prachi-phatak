@@ -118,17 +118,6 @@ Goal:
 
 </p>
 
----
-
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=prachi-phatak&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
-
-</p>
-
----
 
 # ☕ Support
 
