@@ -70,11 +70,13 @@
 
 ---
 
-# 📈 Coding Activity
+# ⚡ Development Dashboard
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prachi-phatak&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
