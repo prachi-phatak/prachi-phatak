@@ -70,16 +70,17 @@
 
 ---
 
-# 🌲 Contribution Timeline
+## 🌲 Contribution Timeline
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=vue&hide_border=true"/>
-
-<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=vue&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </p>
 
+<p align="center">
+💚 <b>Every commit reflects continuous learning, collaboration, and growth.</b>
+</p>
 ---
 
 # 🚀 Featured Projects
