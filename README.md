@@ -69,34 +69,19 @@
 </p>
 
 ---
-# 🌌 Contribution Timeline
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=tokyo-night&hide_border=true"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prachi-phatak&theme=tokyonight"/>
-
-</p>
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prachi-phatak&theme=algolia&no-frame=true&margin-w=12"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prachi-phatak&theme=tokyonight"/>
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/prachi-phatak/prachi-phatak/output/github-contribution-grid-snake-dark.svg"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prachi-phatak&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prachi-phatak&theme=tokyonight"/>
 
 </p>
 
