@@ -1,42 +1,52 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#36BCF7;">Prachi Phatak</span>
-</h1>
+<!-- Animated Header -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:2563eb&text=Prachi%20Phatak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20|%20ML%20|%20DL%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Prachi Phatak</h1>
 
 <h3 align="center">
-💙 Computer Engineering Student • AI/ML Enthusiast • Full Stack Developer
+
+🤖 AI Enthusiast • 🧠 ML Explorer • 🔥 Deep Learning • 💻 Full Stack Developer
+
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%F0%9F%A7%A0;Deep+Learning+%F0%9F%94%A5;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%92%99" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=36BCF7&width=850&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things+💙"/>
+
 </p>
 
 ---
 
 # 💙 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 🎓 Computer Engineering Student
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning & Deep Learning**
+🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
 
-🌐 Learning **Full Stack Development (MERN Stack)**
+💻 Building Modern Full Stack Applications using MERN
 
-🚀 Exploring Open Source & Real-World Software Development
+🌍 Open Source Contributor
 
-💡 Love building AI-powered applications and scalable web solutions
+🚀 Exploring Cloud Computing & Backend Development
 
-📚 Constantly learning new technologies and improving problem-solving skills
+📚 Currently learning Advanced MERN, Deep Learning & AI
 
-🎯 Goal: Become an AI Engineer & Full Stack Developer
+🎯 Goal: Build AI-powered applications that solve real-world problems.
+
+⚡ Fun Fact: I enjoy turning ideas into impactful software.
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,c,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,cpp,git,github,vscode"/>
 
 </p>
 
@@ -48,7 +58,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=prachi-phatak&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-phatak&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=prachi-phatak&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -60,7 +70,7 @@
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -74,39 +84,48 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prachi-phatak&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prachi-phatak&theme=algolia&no-frame=true&margin-w=12"/>
 
 </p>
 
 ---
 
-# 🎯 Currently Learning
+# 🐍 Contribution Snake
 
-```text
-🤖 Artificial Intelligence
+<p align="center">
 
-🧠 Machine Learning
+<img src="https://raw.githubusercontent.com/prachi-phatak/prachi-phatak/output/github-contribution-grid-snake-dark.svg"/>
 
-🔥 Deep Learning
-
-🌐 MERN Stack
-
-☁️ Cloud Computing
-
-🚀 Open Source Contributions
-```
+</p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-⭐ CyberGuardian – Real-Time Phishing URL Detector
+| Project | Description |
+|----------|-------------|
+| 🛡 CyberGuardian | Real-Time Phishing URL Detector using ML |
+| 🔐 Intrusion Detection System | ML-based Network Security Project |
+| 🌐 MERN Projects | Full Stack Web Applications |
+| 💙 Open Source | Contributions to GitHub Projects |
 
-⭐ ML-Based Intrusion Detection System
+---
 
-⭐ MERN Stack Projects
+# 🎯 Current Focus
 
-⭐ Open Source Contributions
+```yaml
+Learning:
+   - Artificial Intelligence
+   - Machine Learning
+   - Deep Learning
+   - MERN Stack
+   - Cloud Computing
+
+Goal:
+   - AI Engineer
+   - Full Stack Developer
+   - Open Source Contributor
+```
 
 ---
 
@@ -118,7 +137,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/prachi-phatak-b21400332">
+<a href="https://linkedin.com/in/prachi-phatak-b21400332">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -130,16 +149,38 @@
 
 ---
 
+# 👀 Visitors
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=prachi-phatak&label=Profile+Views&color=36BCF7&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=prachi-phatak&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
 
 </p>
 
 ---
 
-<h3 align="center">
+# 💬 Random Dev Quote
 
-💙 "Code • Learn • Build • Contribute • Repeat"
+<p align="center">
 
-</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ☕ Support
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:2563eb"/>
+
+</p>
