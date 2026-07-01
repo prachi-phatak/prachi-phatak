@@ -70,12 +70,16 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Coding Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF"/>
 
+</p>
+
+<p align="center">
+<i>Building projects • Learning continuously • Contributing to Open Source 💙</i>
 </p>
 
 ---
