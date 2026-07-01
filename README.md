@@ -72,29 +72,15 @@
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prachi-phatak&theme=github_dark"/>
-</p>
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=github-compact&hide_border=true"/>
 </p>
-
 <p align="center">
 💚 <b>Every commit reflects continuous learning, collaboration, and growth.</b>
 </p>
 
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🛡 CyberGuardian | Real-Time Phishing URL Detector using ML |
-| 🔐 Intrusion Detection System | ML-based Network Security Project |
-| 🌐 MERN Projects | Full Stack Web Applications |
-| 💙 Open Source | Contributions to GitHub Projects |
-
----
 
 # 🎯 Current Focus
 
@@ -139,16 +125,6 @@ Goal:
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=prachi-phatak&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
-
-</p>
-
----
-
-# 💬 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
