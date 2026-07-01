@@ -4,8 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:2563eb&text=Prachi%20Phatak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20|%20ML%20|%20DL%20|%20Full%20Stack%20Developer&descAlignY=60"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Prachi Phatak</h1>
-
 <h3 align="center">
 
 🤖 AI Enthusiast • 🧠 ML Explorer • 🔥 Deep Learning • 💻 Full Stack Developer
@@ -30,9 +28,7 @@
 
 💻 Building Modern Full Stack Applications using MERN
 
-🌍 Open Source Contributor
-
-🚀 Exploring Cloud Computing & Backend Development
+🌍 Contributing to Open Source Projects
 
 📚 Currently learning Advanced MERN, Deep Learning & AI
 
@@ -46,7 +42,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,cpp,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,git,github,vscode"/>
 
 </p>
 
