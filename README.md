@@ -70,15 +70,15 @@
 
 ---
 
-# 🌿 Contribution Timeline
+# 🌲 Contribution Timeline
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=github&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-phatak&theme=vue&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prachi-phatak&theme=github"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prachi-phatak&theme=vue"/>
 
 </p>
 
