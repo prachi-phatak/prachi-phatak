@@ -6,7 +6,7 @@
 
 
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI+%7C+Machine+Learning+%7C+Deep+Learning;Full+Stack+Developer"
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI+%7C+Machine+Learning+%7C+Deep+Learning;"
        alt="Typing SVG" />
 </p>
 
@@ -20,11 +20,7 @@
 
 🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
 
-💻 Building Modern Full Stack Applications using MERN
-
 🌍 Contributing to Open Source Projects
-
-📚 Currently learning Advanced MERN, Deep Learning & AI
 
 🎯 Goal: Build AI-powered applications that solve real-world problems.
 
@@ -97,13 +93,9 @@ Learning:
    - Artificial Intelligence
    - Machine Learning
    - Deep Learning
-   - MERN Stack
-   - Cloud Computing
 
 Goal:
    - AI Engineer
-   - Full Stack Developer
-   - Open Source Contributor
 ```
 
 ---
