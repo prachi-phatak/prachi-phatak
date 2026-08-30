@@ -6,7 +6,7 @@
 
 
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI+%7C+Machine+Learning+%7C+Deep+Learning;"
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI+%7C+Machine+Learning;"
        alt="Typing SVG" />
 </p>
 
@@ -103,12 +103,14 @@
 ### 🚀 ECSoC'26 Contributor
 
 > Actively contributing to the **ECSoC 2026 open-source community**, collaborating with developers and gaining practical experience in open-source development.
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Year-2026-2563EB?style=flat-square"/>
+
+> 
 
 <p>
 <img width="250" height="300" alt="ECSoC_ID_Prachi_Umeshkumar_Phatak" src="https://github.com/user-attachments/assets/0e934c3c-092d-4f8b-8c4e-76c915164ac7" />  
 <img width="250" height="300" alt="Contributor (2)" src="https://github.com/user-attachments/assets/97512ef7-3c09-4fa3-80fe-159f05681040" />
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Year-2026-2563EB?style=flat-square"/>
 
 </p>
 
