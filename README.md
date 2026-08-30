@@ -108,7 +108,7 @@
 
 > 
 
-<p>
+<p align="center">
 <img width="250" height="300" alt="ECSoC_ID_Prachi_Umeshkumar_Phatak" src="https://github.com/user-attachments/assets/0e934c3c-092d-4f8b-8c4e-76c915164ac7" />  
 <img width="250" height="300" alt="Contributor (2)" src="https://github.com/user-attachments/assets/97512ef7-3c09-4fa3-80fe-159f05681040" />
 
