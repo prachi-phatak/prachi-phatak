@@ -31,7 +31,8 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,streamlit,html,css,js,git,github,vscode" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/51e380b2-4e7c-4688-b5d0-22027096c739" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,html,css,js,git,github,vscode" />
 </p>
 
 <p align="center">
