@@ -45,11 +45,9 @@
 <p align="center">
   <b>Tools & Development</b><br><br>
 
-  <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=jupyter" />
-  <img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 ---
 
