@@ -105,7 +105,7 @@
 > Actively contributing to the **ECSoC 2026 open-source community**, collaborating with developers and gaining practical experience in open-source development.
 
 <p>
-<img width="500" height="500" alt="ECSoC_ID_Prachi_Umeshkumar_Phatak" src="https://github.com/user-attachments/assets/0e934c3c-092d-4f8b-8c4e-76c915164ac7" />  
+<img width="300" height="300" alt="ECSoC_ID_Prachi_Umeshkumar_Phatak" src="https://github.com/user-attachments/assets/0e934c3c-092d-4f8b-8c4e-76c915164ac7" />  
 <img width="1254" height="1254" alt="Contributor (2)" src="https://github.com/user-attachments/assets/97512ef7-3c09-4fa3-80fe-159f05681040" />
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-0EA5E9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Year-2026-2563EB?style=flat-square"/>
