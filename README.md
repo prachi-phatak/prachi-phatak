@@ -132,7 +132,7 @@
 
 ### 🚀 Bit N Build Around the World 2025
 
-> Participated in the **Maharashtra State-Level Hackathon — Bit N Build Around the World 2025**, organized by **GDSC**.
+> Participated in the **Maharashtra State-Level Hackathon — Bit N Build Around the World 2025**, organized by **Google Developer Students Club**.
 
 > Collaborated on innovative ideas, problem-solving, and technology-based solutions in a competitive hackathon environment.
 
