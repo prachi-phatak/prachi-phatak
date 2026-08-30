@@ -30,19 +30,19 @@
 
 # 🛠️ Tech Stack
 
-<p align="center">
+<p>
   <b>Languages & Web</b><br><br>
   <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </p>
 
-<p align="center">
+<p>
   <b>AI / Machine Learning</b><br><br>
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-<p align="center">
+<p>
   <b>Tools & Development</b><br><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
