@@ -32,7 +32,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,jupyter notebook,numpy,pandas,opencv,tensorflow,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,jupyter notebook,git,github,vscode"/>
 
 </p>
 
