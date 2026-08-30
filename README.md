@@ -28,27 +28,17 @@
 
 ---
 
-# 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <b>Languages & Web</b><br><br>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,jupyter,html,css,js,git,github,vscode" />
 </p>
 
 <p align="center">
-  <b>AI / Machine Learning</b><br><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-<p align="center">
-  <b>Tools & Development</b><br><br>
-
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=jupyter" />
-</p>
 ---
 
 # 📊 GitHub Statistics
